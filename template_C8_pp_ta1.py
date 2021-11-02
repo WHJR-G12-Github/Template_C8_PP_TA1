@@ -21,7 +21,6 @@ enemycount=10
 
 # Create a variable 'score' and initializing to 0
 
-# Create a variable 'over' and assign the value "False" to it
 
 # Create a font of type 'freesansbold.ttf' in size '15' and name it 'score_font'
 
